@@ -1,2 +1,5 @@
 *.tsv.gz*
 *.tsv
+jupitor_notebook
+.vscode
+test_cache_dir
