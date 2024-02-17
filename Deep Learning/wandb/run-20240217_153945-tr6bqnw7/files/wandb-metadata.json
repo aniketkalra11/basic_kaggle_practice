@@ -1,0 +1,147 @@
+{
+    "os": "Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2024-02-17T10:09:47.030269",
+    "startedAt": "2024-02-17T10:09:45.463695",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "git@github.com:aniketkalra11/basic_kaggle_practice.git",
+        "commit": "5317f859fb88e756bb9422a170b6e133fcce96cf"
+    },
+    "email": "aniketkalra.11@gmail.com",
+    "root": "/home/anni/BS/python_notebook",
+    "host": "Giga",
+    "username": "anni",
+    "executable": "/home/anni/BS/python_notebook/BS/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 3494.399,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3494.399,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 55.16092300415039
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 970",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 970",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 27.408550262451172
+    }
+}
